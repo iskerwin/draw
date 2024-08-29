@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" visible="0" />
         <mxCell id="9GZUrrSOMpWSvkTZttJG-390" value="区域" parent="0" />
         <mxCell id="9GZUrrSOMpWSvkTZttJG-391" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=dashed;imageAspect=1;connectable=1;arcSize=5;imageHeight=24;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=12 12;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-390">
-          <mxGeometry x="381" y="-690" width="1340" height="550" as="geometry" />
+          <mxGeometry x="360" y="-690" width="1340" height="550" as="geometry" />
         </mxCell>
         <mxCell id="9GZUrrSOMpWSvkTZttJG-392" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fillStyle=dashed;strokeColor=#9673a6;imageAspect=1;connectable=1;arcSize=5;imageHeight=24;dashed=1;dashPattern=8 8;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-390">
           <mxGeometry x="453.5" y="-592" width="376" height="361" as="geometry" />
@@ -18,7 +18,7 @@
           <mxGeometry x="1230.5" y="-592" width="376" height="361" as="geometry" />
         </mxCell>
         <mxCell id="9GZUrrSOMpWSvkTZttJG-395" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=dashed;imageAspect=1;connectable=1;arcSize=5;imageHeight=24;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=12 12;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-390">
-          <mxGeometry x="387" width="1340" height="550" as="geometry" />
+          <mxGeometry x="360" width="1340" height="550" as="geometry" />
         </mxCell>
         <mxCell id="9GZUrrSOMpWSvkTZttJG-396" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fillStyle=dashed;strokeColor=#b85450;imageAspect=1;connectable=1;arcSize=5;imageHeight=24;dashed=1;dashPattern=8 8;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-390">
           <mxGeometry x="1236" y="84" width="376" height="361" as="geometry" />
