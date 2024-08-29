@@ -300,6 +300,15 @@
         <mxCell id="9GZUrrSOMpWSvkTZttJG-502" value="办公网接入交换机 09-20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#999999;labelBackgroundColor=default;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-494">
           <mxGeometry x="1329" y="-560" width="183" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9GZUrrSOMpWSvkTZttJG-503" value="EG 网关10.100.100.1/30" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#999999;labelBackgroundColor=default;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-494">
+          <mxGeometry x="757" y="-128" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GZUrrSOMpWSvkTZttJG-504" value="核心交换机&lt;div&gt;10.100.100.2/30&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#999999;labelBackgroundColor=default;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-494">
+          <mxGeometry x="911" y="-32" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9GZUrrSOMpWSvkTZttJG-505" value="无线控制器&lt;div&gt;172.100.100.253/24&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#999999;labelBackgroundColor=default;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-494">
+          <mxGeometry x="1203" y="-80" width="143" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
