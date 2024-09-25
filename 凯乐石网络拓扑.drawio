@@ -482,7 +482,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ghrTRkNWiB4m10vou5EQ-86" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#FF8000;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="9GZUrrSOMpWSvkTZttJG-399" source="suRE_rHokEg1OIpaxFs9-336" target="suRE_rHokEg1OIpaxFs9-332">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1936" y="155" />
+              <mxPoint x="1936" y="370" />
+              <mxPoint x="2216" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ghrTRkNWiB4m10vou5EQ-88" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#FF8000;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="9GZUrrSOMpWSvkTZttJG-399" source="ghrTRkNWiB4m10vou5EQ-129" target="ghrTRkNWiB4m10vou5EQ-60">
           <mxGeometry relative="1" as="geometry" />
@@ -617,10 +623,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ghrTRkNWiB4m10vou5EQ-129" value="Gi1/0/24&lt;div&gt;192.168.250.250&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#999999;labelBackgroundColor=default;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-399">
-          <mxGeometry x="1620.5" y="561" width="119" height="30" as="geometry" />
+          <mxGeometry x="1648" y="553" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghrTRkNWiB4m10vou5EQ-131" value="Gi1/0/24" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#999999;labelBackgroundColor=default;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-399">
           <mxGeometry x="1654" y="190" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghrTRkNWiB4m10vou5EQ-132" value="B2F-SPJK-汇聚" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#808080;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-399">
+          <mxGeometry x="1710" y="641" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9GZUrrSOMpWSvkTZttJG-494" value="描述" style="" parent="0" />
         <mxCell id="ghrTRkNWiB4m10vou5EQ-109" value="负二楼机房" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=30;fontColor=#999999;labelBackgroundColor=default;fontStyle=1;" vertex="1" parent="9GZUrrSOMpWSvkTZttJG-494">
