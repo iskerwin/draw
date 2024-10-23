@@ -85,11 +85,11 @@
         <mxCell id="VOQpBxRtgMoZFAvjQCz4-30" value="带外管理交换机" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#9999FF;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="546" y="190" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VOQpBxRtgMoZFAvjQCz4-31" value="Gi0/1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-79" y="25.71" width="37" height="21" as="geometry" />
+        <mxCell id="VOQpBxRtgMoZFAvjQCz4-31" value="Gi0/1&lt;div&gt;VLAN 10&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="44.5" width="55" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="VOQpBxRtgMoZFAvjQCz4-33" value="Gi0/3" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="441" y="149.5" width="34" height="21" as="geometry" />
+        <mxCell id="VOQpBxRtgMoZFAvjQCz4-33" value="Gi0/3&lt;br&gt;VLAN 10" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="435" y="129.5" width="55" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VOQpBxRtgMoZFAvjQCz4-34" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=workgroup_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
           <mxGeometry x="-126.99" y="370" width="50" height="50" as="geometry" />
