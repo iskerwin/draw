@@ -1,9 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Page-1" id="uferWkPT7eK2L2uZxs7O">
-    <mxGraphModel dx="1449" dy="1687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="1428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" style="" parent="0" />
+        <mxCell id="1" style="" parent="0" visible="0" />
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-223" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;arcSize=2;dashed=1;fillStyle=dashed;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="28" y="-674" width="3250" height="888" as="geometry" />
         </mxCell>
@@ -531,9 +531,6 @@
         <mxCell id="dAEgty9yg9bC_ob-MvKQ-21" value="Gi2/9" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#808080;labelBackgroundColor=default;fillColor=none;labelBorderColor=none;" vertex="1" parent="dAEgty9yg9bC_ob-MvKQ-1">
           <mxGeometry x="1153.58" y="101.5" width="41.42" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dAEgty9yg9bC_ob-MvKQ-22" value="&lt;div style=&quot;&quot;&gt;SDWAN&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#808080;labelBackgroundColor=default;fillColor=none;labelBorderColor=none;" vertex="1" parent="dAEgty9yg9bC_ob-MvKQ-1">
-          <mxGeometry x="905" y="115.5" width="60" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="dAEgty9yg9bC_ob-MvKQ-23" value="&lt;div style=&quot;&quot;&gt;WAN&lt;/div&gt;&lt;div&gt;172.100.100.2/30&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#808080;labelBackgroundColor=default;fillColor=none;labelBorderColor=none;" vertex="1" parent="dAEgty9yg9bC_ob-MvKQ-1">
           <mxGeometry x="1016.71" y="79" width="122" height="30" as="geometry" />
         </mxCell>
@@ -656,6 +653,12 @@
         </mxCell>
         <mxCell id="dAEgty9yg9bC_ob-MvKQ-64" value="OA-SW-B2F-16-25" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#808080;labelBackgroundColor=default;fontStyle=1;fillColor=none;labelBorderColor=none;" vertex="1" parent="dAEgty9yg9bC_ob-MvKQ-1">
           <mxGeometry x="619" y="534" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAEgty9yg9bC_ob-MvKQ-66" value="RG-S7805C" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#808080;labelBackgroundColor=default;fontStyle=1;fillColor=none;labelBorderColor=none;" vertex="1" parent="dAEgty9yg9bC_ob-MvKQ-1">
+          <mxGeometry x="1281" y="140.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAEgty9yg9bC_ob-MvKQ-67" value="SDWAN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#808080;labelBackgroundColor=default;fontStyle=1;fillColor=none;labelBorderColor=none;" vertex="1" parent="dAEgty9yg9bC_ob-MvKQ-1">
+          <mxGeometry x="904" y="113" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
