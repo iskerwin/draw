@@ -120,12 +120,6 @@
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-347" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="619" y="450" width="46" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-352" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="369" y="450" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-353" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="457" y="450" width="38" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-416" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#182E3E;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;" parent="9GZUrrSOMpWSvkTZttJG-399" source="CYkkbhiS0DSrqAUv-Aon-365" target="CYkkbhiS0DSrqAUv-Aon-400" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -222,14 +216,8 @@
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-396" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#182E3E;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;" parent="9GZUrrSOMpWSvkTZttJG-399" source="CYkkbhiS0DSrqAUv-Aon-367" target="CYkkbhiS0DSrqAUv-Aon-373" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-397" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="855" y="451" width="38" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-398" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="943" y="451" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-399" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="1017" y="451" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-400" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="1105" y="451" width="38" height="38" as="geometry" />
@@ -246,17 +234,8 @@
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-404" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="1429" y="450" width="46" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-405" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="1503" y="451" width="38" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-406" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="1591" y="451" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-407" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="1665" y="450" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-408" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="1753" y="450" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-409" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="1819" y="451" width="46" height="38" as="geometry" />
@@ -330,38 +309,20 @@
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-433" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="2952.4" y="447" width="56" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-434" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="3058.4" y="451.3" width="37.2" height="35.4" as="geometry" />
-        </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-435" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="2896.4" y="451.3" width="37.2" height="35.4" as="geometry" />
-        </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-436" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="2790.4" y="447" width="56" height="44" as="geometry" />
         </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-439" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="2628.4" y="447" width="56" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-440" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="2734.4" y="451.3" width="37.2" height="35.4" as="geometry" />
-        </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-441" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="2466.4" y="448" width="56" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-442" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="2572.4" y="452.3" width="37.2" height="35.4" as="geometry" />
         </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-443" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="2304.4" y="447" width="56" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-444" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="2410.4" y="451.3" width="37.2" height="35.4" as="geometry" />
-        </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-445" value="" style="points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#F5AB50;strokeColor=#909090;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="3161" y="287" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CYkkbhiS0DSrqAUv-Aon-448" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
-          <mxGeometry x="3220.4" y="451.3" width="37.2" height="35.4" as="geometry" />
         </mxCell>
         <mxCell id="CYkkbhiS0DSrqAUv-Aon-449" value="" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#F5AB50;strokeColor=#909090;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
           <mxGeometry x="3114.4" y="447" width="56" height="44" as="geometry" />
@@ -484,6 +445,45 @@
         </mxCell>
         <mxCell id="dAEgty9yg9bC_ob-MvKQ-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#182E3E;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;" edge="1" parent="9GZUrrSOMpWSvkTZttJG-399" source="suRE_rHokEg1OIpaxFs9-165" target="suRE_rHokEg1OIpaxFs9-176">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-399" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="1017" y="451" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-352" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="369" y="450" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-353" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="457" y="450" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-397" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="855" y="451" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-405" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="1503" y="451" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-407" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="1665" y="450" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-408" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#F5AB50;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#1A1A1A;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="1753" y="450" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-434" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="3058.4" y="451.3" width="37.2" height="35.4" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-435" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="2896.4" y="451.3" width="37.2" height="35.4" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-440" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="2734.4" y="451.3" width="37.2" height="35.4" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-442" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="2572.4" y="452.3" width="37.2" height="35.4" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-444" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="2410.4" y="451.3" width="37.2" height="35.4" as="geometry" />
+        </mxCell>
+        <mxCell id="CYkkbhiS0DSrqAUv-Aon-448" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontFamily=Helvetica;fontSize=11;fontColor=#1A1A1A;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;" parent="9GZUrrSOMpWSvkTZttJG-399" vertex="1">
+          <mxGeometry x="3220.4" y="451.3" width="37.2" height="35.4" as="geometry" />
         </mxCell>
         <mxCell id="dAEgty9yg9bC_ob-MvKQ-1" value="描述" parent="0" />
         <mxCell id="dAEgty9yg9bC_ob-MvKQ-4" value="Gi0/7&lt;br&gt;121.33.38.210" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=#808080;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;" vertex="1" parent="dAEgty9yg9bC_ob-MvKQ-1">
